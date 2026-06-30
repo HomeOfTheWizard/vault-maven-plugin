@@ -79,7 +79,7 @@
         <version.nexus-staging-maven-plugin>1.6.13</version.nexus-staging-maven-plugin>
         <version.maven-release-plugin>3.0.1</version.maven-release-plugin>
         <version.junit-jupiter>5.9.2</version.junit-jupiter>
-        <version.jackson-databind>2.15.2</version.jackson-databind>
+        <version.jackson-databind>2.22.0</version.jackson-databind>
         <version.vault-java-driver>6.1.0</version.vault-java-driver>
         <version.maven-jar-plugin>3.4.1</version.maven-jar-plugin>
     </properties>
